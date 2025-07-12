@@ -73,6 +73,11 @@ body{
   font-weight: bold;
   font-family: serif;
 }
+@media (max-width: 700px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+}
 .btn {
   background-color: #d97706;
   padding: 1rem ;
