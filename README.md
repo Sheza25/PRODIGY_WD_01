@@ -16,7 +16,7 @@ A simple, modern, and fully responsive landing page built with **HTML**, **CSS**
 
  ##Live Demo
 
-(https://sheza25.github.io/PRODIGY_WD_01/)
+(https://sheza25.github.io/Responsive_landing-page/)
 
 
 
